@@ -1,0 +1,51 @@
+h1 {
+    background-color: rgb(238, 169, 144);
+    box-shadow: 5px 5px 5px rgb(134, 133, 133);
+    padding: 75px;
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 5px 5px 5px rgb(168, 163, 163);
+    font-size: 60px;
+    text-decoration: overline underline 12px ;
+    margin-top: -10px;
+}
+body{
+    background-color: #fff6e5;
+}
+
+.monk{
+    width: 250px;
+    box-shadow: 5px 5px 5px #f6e0b5 ;
+    position: absolute;
+    left: 150px;
+}
+
+.atomic{
+    width: 250px;
+    box-shadow: 5px 5px 5px #f6e0b5;
+    position: absolute;
+    left: 450px; 
+}
+.reading{
+    width: 50px;
+    position: absolute;
+    top: 80px; left: 1250px;
+}
+.clock{
+    width: 50px;
+    position: absolute;
+    top: 80px; left: 620px;
+}
+.howl{
+    width: 250px;
+    position: absolute;
+    left: 750px;
+    box-shadow: 5px 5px 5px #f6e0b5;
+}
+
+.div1{
+    position: absolute;
+    top: 587px;
+    left: 183px;
+    font-size: 25px;
+}
